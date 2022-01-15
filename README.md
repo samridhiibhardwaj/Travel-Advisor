@@ -1,3 +1,11 @@
+# Travel Advisor
+
+A Google Maps Travel Companion Application. It is cureently undergoing a change.
+
+### [Live Site](https://traveladvisorbysamridhi.netlify.app)
+
+<img width="1440" alt="9" src="https://user-images.githubusercontent.com/91188761/149633728-ad76e226-9e6b-4da7-b60f-28f2e8eabc3b.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
